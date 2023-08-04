@@ -15,4 +15,8 @@
 > Engineering; manufacturing  
 > Digital Twin; Simulations
 
-## [ReadyPlayerMe](https://readyplayer.me)
+## [ReadyPlayerMe](https://readyplayer.me)  
+
+# Experiential Design Framework  
+#### The harder it is to execute a task, the higher the motivation is needed  
+#### Motivation + 
